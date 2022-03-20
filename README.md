@@ -2,7 +2,7 @@
 
 im known as 01/meli or AntiZone
 
-i program shit and make discord packing selfbots or any selfbot in general 
+i program, nuke, log and make discord packing selfbots or any selfbot in general 
 
 ### INFO
 
