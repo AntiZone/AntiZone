@@ -1,6 +1,6 @@
 ## Welcome to AntiZone
 
-im known as 01/meli or AntiZone
+im known as 01meli or AntiZone
 
 i program, nuke, log and make discord packing selfbots or any selfbot in general 
 
