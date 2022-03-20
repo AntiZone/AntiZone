@@ -1,8 +1,8 @@
-## Welcome to AxtiZone
+## Welcome to AntiZone
 
-You can use the [editor on GitHub](https://github.com/AntiZone/AntiZone/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+im known as 01/meli or AntiZone
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+i program shit and make discord packing selfbots or any selfbot in general 
 
 ### Markdown
 
