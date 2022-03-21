@@ -2,13 +2,19 @@
 
 im known as 01meli or AntiZone
 
-i program, nuke, log and make discord packing selfbots or any selfbot in general 
+im a programmer, doxxer, nuker,and a logger 
 
 ### INFO
 
 heres all my socials and shit
 
 ```markdown
+i make discord packing selfbots, websites when i be bore ashit, and other selfbots
+
+heres how to reach me 
+
+
+
 Discord: zone#0007
 
 
@@ -18,7 +24,11 @@ Youtube: AntiZone
 Github: AntiZone
 
 
-dm me if u have any questions
+https://e.rip/antizone
+
+
+
+dm me if u have any questions or wanna purchase something
 
 
 
